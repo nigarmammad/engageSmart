@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Add N number Off elements(failed)">
+    <classes>
+      <class name="herokuappUITestAutomation">
+        <methods>
+          <include name="setupClass"/>
+          <include name="testAdd_N_Number_Off_Elements"/>
+          <include name="setupTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- herokuappUITestAutomation -->
+    </classes>
+  </test> <!-- Add N number Off elements(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
