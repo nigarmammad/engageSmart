@@ -3,13 +3,13 @@ UI test automation for the project
 
 Tools & versions
 
-// automation script written i java languge
-Jave - 17
+// automation script written in java language
+Java - 17
 
-//for test execution and verification used testng
+//for test execution and verification used testNG
 TestNG -7.4.0
 
-// to coonect browser and as a UI automation tool used selenium webdriver
+// to connect browser and as a UI automation tool used selenium webdriver
 Selenium - 4.4.0
 
 // for driver managemnt and set up used BoniGarcia Webdriver Manager
